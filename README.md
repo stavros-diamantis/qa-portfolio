@@ -24,4 +24,4 @@ Test cases and bug reports for a demo e-commerce application.
 
 ## Contact
 - LinkedIn: [your linkedin url here]
-- Email: [your email here]QA testing portfolio: test cases, bug reports, and more
+- Email: [stavros.diamantis@gmail.com]QA testing portfolio: test cases, bug reports, and more
